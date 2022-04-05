@@ -4,3 +4,6 @@
 
 
 ##Skills
+- Python
+- Linux
+- javascript
